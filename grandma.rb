@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma (phrase)
+def speak_to_grandma
   if "I LOVE YOU GRANDMA!".upcase
     returns "I LOVE YOU TOO PUMPKIN!"
   end
